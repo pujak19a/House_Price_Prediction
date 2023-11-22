@@ -42,7 +42,19 @@ You are required to model the price of houses with the available independent var
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
--
+- Ridge regression is giving better results 
+- most important features are 
+OverallQual 0.133
+GrLivArea 0.108
+1stFlrSF 0.097
+2ndFlrSF 0.072
+GarageCars 0.067
+MasVnrArea 0.066
+RoofMatl 0.061
+TotRmsAbvGrd 0.058
+LotArea 0.049
+OverallCond 0.046
+BsmtFinSF1 0.038
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
